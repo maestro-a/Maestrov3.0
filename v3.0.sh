@@ -84,8 +84,6 @@ echo $i"["$me"99"$i"]"$bi"🔀 |TermuxJomb"$me"(Khusus Jomblo)"
 sleep 0.1
 echo $i"["$me"999"$i"]"$bi"🔀 |Lacak IP"$me"(By: zlucifer)"
 sleep 0.1
-echo $i"["$me"99"$i"]"$bi"🔀 |TermuxJomb"$me"(Khusus Jomblo)"
-sleep 0.1
 echo $i"["$me"00"$i"]"$pu" EXIT"
 echo "⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩⏩"
 sleep 0.1
